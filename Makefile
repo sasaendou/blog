@@ -17,6 +17,11 @@ deploy:
 	hugo
 	git add -A && git commit -m "rebuilding site `date`" && git push origin master
 
+up:
+	git fetch --prune
+	git reset --hard origin/master
+	git branch --merged | grep -vE '^\*|master$|develop$' | xargs -I % git branch -D %
+
 sync:
 	cd themes/gohugo-theme-ananke && git fetch upstream && git merge upstream/master && git push
 

@@ -1,7 +1,6 @@
 ---
 title: "About"
 description: "365日全部良い日って難しい。360日素晴らしい日にしよう。"
-featured_image: ''
 ---
 {{< figure src="/images/about-image.jpg" title="Emerald Green Beach" >}}
 

@@ -17,11 +17,15 @@ deploy:
 	hugo
 	git add -A && git commit -m "rebuilding site `date`" && git push origin master
 
+sync:
+	cd themes/gohugo-theme-ananke && git fetch upstream && git merge upstream/master && git push
+
 subup:
 	git submodule foreach git pull origin master
 
 subinit:
 	git submodule add --force -b master https://github.com/sasaendou/gohugo-theme-ananke themes/gohugo-theme-ananke
+	cd themes/gohugo-theme-ananke && git remote add upstream https://github.com/budparr/gohugo-theme-ananke
 
 subrm:
 	git submodule deinit -f --all

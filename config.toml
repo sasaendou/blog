@@ -1,8 +1,7 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://example.com"
+baseURL = "https://awesome-360.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-# themesDir = "../.."
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -18,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Sasaendou's Blog web site"
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""

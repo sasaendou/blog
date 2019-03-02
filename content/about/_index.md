@@ -3,6 +3,9 @@ title: "About"
 description: "365日全部良い日って難しい。360日素晴らしい日にしよう。"
 featured_image: ''
 ---
-{{< figure src="/images/about-image.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/about-image.jpg" title="Emerald Green Beach" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+このブログは、webに慣れようって事で始めました。
+「Awesome360」って何？って思う方もいらっしゃると思います。これは、「Awesome」は「素晴らしい」、「すごい」とかっていう意味なのは知ってるかと思うのですが、「360」には意味が二つありましす。
+「360度」と「1年の内365日素晴らしいっていうのは難しいけど、360日は素晴らしい日に！」って言う意味があります。
+趣味全開で情報を発信していきたいと思います！是非ご覧ください！

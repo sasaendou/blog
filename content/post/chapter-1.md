@@ -2,7 +2,7 @@
 date: 2019-03-02T22:10:05-04:00
 description: "ブログ開設のご挨拶"
 featured_image: "/images/theta-blog1.jpg"
-tags: [scene, blog]
+tags: [scene, blog,movie,book]
 title: "はじめまして"
 ---
 

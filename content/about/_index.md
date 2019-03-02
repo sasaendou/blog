@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "360度素晴らしい人生にしたい。でも365日全部良い日って難しい。360日素晴らしい日にしよう。"
+description: "365日全部良い日って難しい。360日素晴らしい日にしよう。"
 featured_image: ''
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}

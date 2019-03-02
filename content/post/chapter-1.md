@@ -2,7 +2,7 @@
 date: 2019-03-02
 description: "ブログ開設のご挨拶"
 featured_image: "/images/theta.jpg"
-tags: [scene, blog, movie, book]
+tags: [blog, life, introduction]
 title: "はじめまして"
 ---
 

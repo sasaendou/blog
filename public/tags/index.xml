@@ -21,11 +21,20 @@
     </item>
     
     <item>
-      <title>Book</title>
-      <link>https://www.awesome-360.com/tags/book/</link>
+      <title>Introduction</title>
+      <link>https://www.awesome-360.com/tags/introduction/</link>
       <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.awesome-360.com/tags/book/</guid>
+      <guid>https://www.awesome-360.com/tags/introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life</title>
+      <link>https://www.awesome-360.com/tags/life/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.awesome-360.com/tags/life/</guid>
       <description></description>
     </item>
     
@@ -44,15 +53,6 @@
       <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.awesome-360.com/tags/review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scene</title>
-      <link>https://www.awesome-360.com/tags/scene/</link>
-      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.awesome-360.com/tags/scene/</guid>
       <description></description>
     </item>
     

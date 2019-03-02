@@ -2,4 +2,5 @@
 title: "Awesome360's Website"
 description: "始めたばかりの素人ブログのサイトです。"
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Awesome360は、管理者の趣味等のレビューであったり、写真を紹介するサイトです。
+レビューは「映像作品」・「本」・「食事」・「旅行」などなど多岐に渡って書いていきます。是非ブックマークして下さい！

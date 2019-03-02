@@ -11,7 +11,7 @@ run:
 
 deploy:
 	hugo
-	cd public && git add . && git commit -m "rebuilding site `date`" && git push origin master
+	git add -A && git commit -m "rebuilding site `date`" && git push origin master
 
 subup:
 	git submodule foreach git pull origin master

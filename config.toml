@@ -4,11 +4,12 @@ languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "ja"
+DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "UA-135460381-1"
 enableRobotsTXT = true
+HasCJKLanguage = true
 
 [sitemap]
   changefreq = "monthly"

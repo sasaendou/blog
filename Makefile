@@ -9,6 +9,10 @@ init:
 run:
 	hugo server
 
+clean:
+	rm -rf public resources
+	ls -la
+
 deploy:
 	hugo
 	git add -A && git commit -m "rebuilding site `date`" && git push origin master

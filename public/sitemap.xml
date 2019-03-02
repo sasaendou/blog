@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>https://awesome-360.com/post/chapter-7/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://awesome-360.com/post/chapter-5/</loc>
     <lastmod>2017-04-13T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -58,13 +65,6 @@
   </url>
   
   <url>
-    <loc>https://awesome-360.com/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://awesome-360.com/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
@@ -72,6 +72,13 @@
   
   <url>
     <loc>https://awesome-360.com/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://awesome-360.com/</loc>
+    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

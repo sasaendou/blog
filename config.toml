@@ -17,10 +17,10 @@ enableRobotsTXT = true
 
 [params]
   favicon = ""
-  description = "Sasaendou's Blog web site"
+  description = "Awesome's Blog web site"
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
-  instagram = ""
+  twitter = ""
+  instagram = "https://www.instagram.com/theta_awesome360/"
   youtube = ""
   github = ""
   gitlab = ""

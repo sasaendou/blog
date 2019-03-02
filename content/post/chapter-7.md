@@ -5,7 +5,7 @@ featured_image: "/images/esmeralda.jpg"
 tags: []
 title: "FUuuuuuuuuuu"
 ---
-We are delighted to be able to inform the reader, that during the whole of
+#### We are delighted to be able to inform the reader, that during the whole of
 this scene, Gringoire and his piece had stood firm. His actors, spurred on
 by him, had not ceased to spout his comedy, and he had not ceased to
 listen to it. He had made up his mind about the tumult, and was determined

@@ -1,7 +1,7 @@
 ---
 date: 2019-03-03
 title: "巷で話題！「the Beach Yokohama」の魅力"
-featured_image: "/images/thebeach.webp"
+featured_image: "../../static/images/thebeach.webp"
 tags: [blog, food, cafe, instagood]
 description: "review"
 ---

@@ -2,7 +2,7 @@
 title: "About"
 description: "365日全部良い日って難しい。360日素晴らしい日にしよう。"
 ---
-{{< figure src="/images/about-image.jpg" title="Emerald Green Beach" >}}
+{{< figure src="/images/about-image.webp" title="Emerald Green Beach" >}}
 
 Awesome360は、レビューや管理者が趣味で撮っている写真をUPするサイトです。レビューはご飯・旅行・映画・本、などなど多岐に渡って、掲載します。
 「Awesome360」って何？って思う方もいらっしゃると思います。これは、「Awesome」は「素晴らしい」、「すごい」とかっていう意味なのは知ってるかと思うのですが、「360」には意味が2つあります。

@@ -1,7 +1,7 @@
 ---
 date: 2019-03-02
 description: "ブログ開設のご挨拶"
-featured_image: "/images/theta.jpg"
+featured_image: "/images/theta.webp"
 tags: [blog, life, introduction]
 title: "はじめまして"
 ---

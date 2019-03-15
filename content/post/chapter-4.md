@@ -5,7 +5,7 @@ featured_image: "images/milk1.webp"
 tags: [blog, food, cafe, instagood]
 description: "review"
 ---
-今回は、みなとみらいにある<a href="http://takanashi-milk-restaurant.jp/" target="_blank">タカナシミルクレストラ</a>のランチに行ってきたので、そちらをご紹介したいと思います。
+今回は、みなとみらいにある<a href="http://takanashi-milk-restaurant.jp/" target="_blank">タカナシミルクレストラン</a>のランチに行ってきたので、そちらをご紹介したいと思います。
 
 ランチメニューが豊富で、どれにしようか迷うほどでした。普通のランチメニューとドリンクやデザートが付いてくるスペシャルランチがあります。
 ドリンクもデザートも食べたいと思う方は、スペシャルランチがお値段的にもオススメです。

@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.awesome-360.com/post/chapter-5/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.awesome-360.com/post/chapter-4/</loc>
     <lastmod>2019-03-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -45,21 +52,21 @@
   
   <url>
     <loc>https://www.awesome-360.com/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.awesome-360.com/tags/blog/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.awesome-360.com/tags/cafe/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -78,14 +85,14 @@
   
   <url>
     <loc>https://www.awesome-360.com/tags/food/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.awesome-360.com/tags/instagood/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -120,7 +127,7 @@
   
   <url>
     <loc>https://www.awesome-360.com/tags/</loc>
-    <lastmod>2019-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

@@ -1,6 +1,6 @@
 ---
 date: 2019-04-16
-title: "ダイエットの人もOK？錦糸町の「shake tree」で食べられる、肉で挟んだバーガーがが美味しすぎる"
+title: "ダイエットの人もOK？錦糸町の「shake tree」の肉で挟んだバーガーがが美味しすぎる"
 featured_image: "images/shaketree1.jpg"
 tags: [blog, food, cafe, instagood]
 description: "review"

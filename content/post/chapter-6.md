@@ -9,14 +9,14 @@ description: "review"
 私はInstagramで偶然見つけたのですが、その装いは唾を飲み込む「ゴクッ」という音が聞こえる程！
 
 その装いがこちら☟
-{{< figure src="/images/hanadaikon1.jpg" title="shake tree" >}}
+{{< figure src="/images/hanadaikon1.jpg" title="あぶり和牛とろろ重" >}}
 重箱からはみ出すお肉！インパクト大です。  
 「こんなの胃もたれしちゃうよー！」という声が聞こえてきそうですが。。。  
 食べてみると進む進む！  
 お惣菜が充実していて食べていて飽きない内容になっていました。    
 
 私が食べた際の丼ぶり以外のものはこんな感じでした。
-{{< figure src="/images/hanadaikon2.jpg" title="shake tree" >}}    
+{{< figure src="/images/hanadaikon2.jpg" title="お品書き" >}}    
 
 この他にもお味噌汁と漬物、食後のデザートとコーヒーもがつきます。☺️  
 小さめなのがお腹にも◎ですし、何と言っても可愛いです。

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Awesome360 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.awesome-360.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Blog</title>
       <link>https://www.awesome-360.com/tags/blog/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.awesome-360.com/tags/blog/</guid>
       <description></description>
@@ -30,9 +30,18 @@
     </item>
     
     <item>
+      <title>Cheese</title>
+      <link>https://www.awesome-360.com/tags/cheese/</link>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.awesome-360.com/tags/cheese/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Food</title>
       <link>https://www.awesome-360.com/tags/food/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.awesome-360.com/tags/food/</guid>
       <description></description>
@@ -41,7 +50,7 @@
     <item>
       <title>Instagood</title>
       <link>https://www.awesome-360.com/tags/instagood/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 18 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.awesome-360.com/tags/instagood/</guid>
       <description></description>

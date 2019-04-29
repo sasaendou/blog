@@ -1,6 +1,6 @@
 ---
 date: 2019-04-18
-title: "生ブッラータチーズが食べられる、みなとみらいの「good supoon」にいってみた"
+title: "生ブッラータチーズが食べられる、みなとみらいの「good spoon」にいってみた"
 featured_image: "images/good-spoon.jpg"
 tags: [blog, food, instagood, cheese]
 description: "review"
